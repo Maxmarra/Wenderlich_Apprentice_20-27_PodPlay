@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">PodPlay</string>
+    <string name="app_name">Подкастер</string>
+    <string name="search_hint">поиск подкаста</string>
+    <string name="search">поиск</string>
 </resources>
