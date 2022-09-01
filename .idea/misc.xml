@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/layout/activity_podcast.xml" value="0.33" />
+        <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/layout/episode_item.xml" value="0.1" />
+        <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/layout/fragment_podcast_details.xml" value="0.33" />
+        <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/layout/menu_details.xml" value="0.1" />
         <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/layout/search_item.xml" value="0.44666666666666666" />
+        <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/menu/menu_details.xml" value="0.1" />
         <entry key="..\:/dev/ASP/AS/wenderlich/chapter_20_27_PodPlay/app/src/main/res/menu/menu_search.xml" value="0.67" />
       </map>
     </option>
